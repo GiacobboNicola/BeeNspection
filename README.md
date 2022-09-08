@@ -1,10 +1,10 @@
 # BeeNspection
 The main target is to check the hive tempature and the hive weight every x minutes.
 
-## Plan
+## Hardware
 fasi da seguire
 
-## Hardware
+## Plan 
 Link ai materiali
 
 
