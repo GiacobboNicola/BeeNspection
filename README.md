@@ -3,7 +3,7 @@ The main target is to check the hive tempature and the hive weight every x minut
 
 ## Hardware
 Raspberry PI: the cheapest one
-/n DS18B20 sensor
+#DS18B20 sensor
 
 ## Plan 
 
